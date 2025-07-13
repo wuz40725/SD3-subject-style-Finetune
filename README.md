@@ -1,6 +1,6 @@
 
 SD3mid_v2.ipynb
-完整版dreambooth，在云服务器上运行，含先验保留损失；包含lora风格迁移，改进采样
+完整版，在云服务器上运行，含类别先验保留损失；包含lora风格迁移，改进采样
 
 SD3mid-dreambooth-v1.ipynb
 优化显存版dreambooth，含先验保留损失
